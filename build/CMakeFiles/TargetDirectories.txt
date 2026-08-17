@@ -1,0 +1,3 @@
+D:/C++/vec2/build/CMakeFiles/Vec2Maths.dir
+D:/C++/vec2/build/CMakeFiles/ALL_BUILD.dir
+D:/C++/vec2/build/CMakeFiles/ZERO_CHECK.dir
